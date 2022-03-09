@@ -48,7 +48,7 @@ Column Attributes :
 4. Seaborn
 5. Sklearn
 
-## MODELS USED
+## ALGORITHMS USED
 
 1. Linear Regression
 2. SVM
